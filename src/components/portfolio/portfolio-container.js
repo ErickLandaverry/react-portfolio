@@ -59,8 +59,7 @@ export default class PortfolioContainer extends Component {
         <button onClick={() => this.handleFilter('ython')}>Python</button>
         <button onClick={() => this.handleFilter('all')}>All</button>
 
-        {this.portfolioItems()}
-
+        <div className="portfolio-items-wrapper">{this.portfolioItems()}</div>
       </div>
     );
   }
