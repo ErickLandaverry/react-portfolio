@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import axios from "axios";
 
+import RichTextEditor from "../forms/rich-text-editor";
+
 export default class BlogForm extends Component {
   constructor(props) {
     super(props);
@@ -73,6 +75,10 @@ export default class BlogForm extends Component {
             value={this.state.blog_status}
           />
         </div>
+
+        <dic className="one-column">
+          <RichTextEditor />
+        </dic>
 
         <button className="btn">Save</button>
       </form>
