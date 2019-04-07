@@ -13,23 +13,9 @@ export default function() {
         }}
       />
       <div className="right-column">
-        Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis
-        dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis.
-        Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-        Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget
-        risus varius blandit sit amet non magna. Morbi leo risus, porta ac
-        consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida
-        at eget metus. Donec sed odio dui. Cras mattis consectetur purus sit
-        amet fermentum. Etiam porta sem malesuada magna mollis euismod. Nulla
-        vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque
-        ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non
-        commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec
-        elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-        et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-        commodo cursus magna, vel scelerisque nisl consectetur et. Nullam quis
-        risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac
-        consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis
-        euismod semper.
+        Software developer with a passion for developing programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. I enjoy being engaged in projects that require me to work out of my comfort and knowledge set. I am a confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, and further their success.
+
+        I have skills in Python, JavaScript, React, Redux, SQL, MongoDB, HTML, CSS and Excel
       </div>
     </div>
   );
