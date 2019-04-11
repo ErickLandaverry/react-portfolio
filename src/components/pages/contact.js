@@ -1,6 +1,6 @@
 import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import contactPagePicture from "../../../static/assets/images/auth/contact.jpeg";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; 
+import contactPagePicture from "../../../static/assets/images/auth/login.jpg";
 
 export default function() {
   return (
@@ -35,9 +35,13 @@ export default function() {
             <div className="icon">
               <FontAwesomeIcon icon="map-marked-alt" />
             </div>
-
+    
             <div className="text">Lehi, UT</div>
           </div>
+        </div>
+        <div className="social-media-icons">
+          <FontAwesomeIcon icon={['fab', 'github']} />
+          <FontAwesomeIcon icon={['fab', 'linkedin-in']} />
         </div>
       </div>
     </div>

@@ -32,5 +32,15 @@
           }
         }
       }
+
+      .social-media-icons {
+        margin-top: 150px;
+        margin-bottom: 80px;
+        width: 300px;
+        display: flex;
+        justify-content: space-around;
+        font-size: 2em;
+        color: $teal;
+      }
     }
   }
