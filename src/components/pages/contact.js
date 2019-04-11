@@ -40,8 +40,8 @@ export default function() {
           </div>
         </div>
         <div className="social-media-icons">
-          <a href="https://github.com/ErickLandaverry" className="social-media-icon"><FontAwesomeIcon icon={['fab', 'github']} /></a>
-          <a href="https://www.linkedin.com/in/erick-landaverry/" className="social-media-icon"><FontAwesomeIcon icon={['fab', 'linkedin-in']} /></a>
+          <a href="https://github.com/ErickLandaverry" className="social-media-icon" target="_blank"><FontAwesomeIcon icon={['fab', 'github']} /></a>
+          <a href="https://www.linkedin.com/in/erick-landaverry" className="social-media-icon" target="_blank"><FontAwesomeIcon icon={['fab', 'linkedin-in']} /></a>
         </div>
       </div>
     </div>
