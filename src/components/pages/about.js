@@ -13,9 +13,9 @@ export default function() {
         }}
       />
       <div className="right-column">
-        Software developer with a passion for developing programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. I enjoy being engaged in projects that require me to work out of my comfort and knowledge set. I am a confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, and further their success.
+        <p>I am a software developer with a passion for developing programs that expedite the efficiency and effectiveness of its organizational success. I am Well-versed in technology and writing code to create systems that are reliable and user-friendly. I enjoy being engaged in projects that require me to work out of my comfort and knowledge set. I am a confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, and further their success.</p>
 
-        I have skills in Python, JavaScript, React, Redux, SQL, MongoDB, HTML, CSS and Excel
+        <p>I have skills in Python, JavaScript, React, Redux, SQL, MongoDB, HTML, CSS and Excel</p>
       </div>
     </div>
   );
